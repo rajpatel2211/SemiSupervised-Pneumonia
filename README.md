@@ -1,1 +1,0 @@
-This project presents an intelligent medical image analysis system that detects pneumonia from chest X-ray images using Semi-Supervised Learning. The model is trained using both labeled and unlabeled data to improve classification performance and reduce dependency on large annotated datasets.
